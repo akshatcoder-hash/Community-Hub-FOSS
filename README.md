@@ -21,5 +21,5 @@ The FOSS community values inclusivity, respect, and collaboration. This document
 ## 🎁 Contribution Guidelines
 
 The FOSS Community Hub welcomes contributions from members of the community. This document outlines the contribution guidelines, including how to submit a pull request and the review process for contributions.
-
+Go through the [Guidelines for Contributors](https://github.com/FOSS-Community/Community-Hub/blob/main/CONTRIBUTION.md) to get started with contributing to the repository.
 With its organized structure and easily accessible information, the FOSS Community Hub aims to provide a welcoming and collaborative environment for all members of the FOSS community.
